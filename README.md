@@ -8,7 +8,8 @@
 </div>
 
 ###
-<img align="right" height="150" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hacker GIF" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Ethical Hacker GIF" height="150" />
 
 ###
 
