@@ -16,9 +16,9 @@
 <h2 align="left">About Me</h2>
 
 - ✨ Crafting creative bugs since 2022  
-- 🚀 Building innovative web apps and exploring new tech  
-- 🎯 Mastering full-stack and shipping awesome projects  
-- 🎲 Fun fact: I talk to my code like it’s going to reply 😄
+- 🚀 Passionate about building innovative web apps and exploring new tech  
+- 🎯 Goals: Master full-stack and ship awesome projects  
+- 😄 Fun fact: I talk to my code like it’s going to say hi!
 
 ###
 
@@ -65,7 +65,7 @@
 - 🩺 Healthcare Quiz App – Fun learning in healthcare  
 - 💬 Community Chat Apps – Let’s talk, share, build  
 - 🗳️ Campus Election System – Smart voting made easy  
-- 💻 Portfolio Website – My journey
+- 💻 Portfolio Website – Showcasing my journey
 
 ###
 
