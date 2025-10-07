@@ -13,16 +13,18 @@
 </p>
 
 <!-- About Me Section with cool styling -->
+<!-- About Me Section with cool styling -->
 <p align="center">
   <img align="right" height="130" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Dev GIF" />
-  <b>🚀 Full Stack Web Developer creating user-centric and scalable web applications.<br>
-  🔥 Passionate about Node.js, React, Express, MongoDB, and building real-world solutions.<br>
-  🏆 Shipped projects: EduConnect, Ecommerce Chatbot, VirtualPlanner, Book Hub, Healthcare Quiz App, Community Chat, Portfolio Website, Campus Election System.<br>
-  🎯 Goal: Deliver more impactful products, master full stack + cloud + AI.<br>
-  🏅 Always involved in hackathons, coding contests, and tech communities.<br>
-  ☕ Fun fact: Talks to code, and occasionally—code talks back!
+  <b>🚀 Full Stack Web Developer crafting seamless, scalable, and user-focused digital experiences.<br>
+  🔥 Skilled in building robust applications with Node.js, React, Express, and MongoDB.<br>
+  💡 Passionate about blending creativity with clean code to solve real-world challenges.<br>
+  🌐 Exploring cloud integration and AI-driven solutions to push the boundaries of web innovation.<br>
+  🏅 Active participant in hackathons, open-source, and developer communities.<br>
+  ☕ Fun fact: My code runs on caffeine and curiosity.
   </b>
 </p>
+
 
 <!-- Skills & Tech Stack with modern icons -->
 <h2 align="left">Tech Stack & Tools</h2>
