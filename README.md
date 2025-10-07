@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Srinath%20Potharaju&fontSize=60&animation=fadeIn" />
 </div>
 
-<h2 align="center">👋 Hi, I'm Srinath – Full Stack Web Developer from Hyderabad</h2>
+<h2 align="center"> Full Stack Web Developer from Hyderabad</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srinath-potharaju/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/></a>
