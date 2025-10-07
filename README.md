@@ -27,7 +27,7 @@
 <!-- Skills & Tech Stack with modern icons -->
 <h2 align="left">Tech Stack & Tools</h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,cpp,html,css,mysql,postgres,docker,git,github,vercel,aws,firebase,nginx,postman" height="50" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,cpp,html,css,mysql,postgres,docker,git,github,vercel,aws,firebase,nginx,postman" height="50" />
 </div>
 
 <!-- Project Highlights with creative emojis -->
