@@ -1,100 +1,62 @@
-<h2 align="left">Hi 👋! My name is Srinath and I'm a Full Stack Web Developer from Hyderabad</h2>
-
-###
-
+<!-- Dynamic animated header -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriinathh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sriinathh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Srinath%20Potharaju&fontSize=60&animation=fadeIn" />
 </div>
 
-###
+<h2 align="center">👋 Hi, I'm Srinath – Full Stack Web Developer from Hyderabad</h2>
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Ethical Hacker GIF" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/srinath-potharaju/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/></a>
+  <a href="mailto:sri.nxth@yahoo.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" /></a>
+  <a href="https://www.instagram.com/sri.nxthh" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" /></a>
+  <a href="https://discord.com/users/sriinathh" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" /></a>
+</p>
 
-###
+<!-- About Me Section with cool styling -->
+<p align="center">
+  <img align="right" height="130" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Dev GIF" />
+  <b>🚀 Full Stack Web Developer creating user-centric and scalable web applications.<br>
+  🔥 Passionate about Node.js, React, Express, MongoDB, and building real-world solutions.<br>
+  🏆 Shipped projects: EduConnect, Ecommerce Chatbot, VirtualPlanner, Book Hub, Healthcare Quiz App, Community Chat, Portfolio Website, Campus Election System.<br>
+  🎯 Goal: Deliver more impactful products, master full stack + cloud + AI.<br>
+  🏅 Always involved in hackathons, coding contests, and tech communities.<br>
+  ☕ Fun fact: Talks to code, and occasionally—code talks back!
+  </b>
+</p>
 
-<h2 align="left">About Me</h2>
-
-- ✨ Crafting creative bugs since 2022  
-- 🚀 Passionate about building innovative web apps and exploring new tech  
-- 🎯 Goals: Master full-stack and ship awesome projects  
-- 😄 Fun fact: I talk to my code like it’s going to say hi!
-
-###
-
-<h2 align="left">Tech Stack</h2>
-
+<!-- Skills & Tech Stack with modern icons -->
+<h2 align="left">Tech Stack & Tools</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,cpp,html,css,mysql,postgres,docker,git,github,vercel,aws,firebase,nginx,postman" height="36"/>
 </div>
 
-###
+<!-- Project Highlights with creative emojis -->
+<h2 align="left">🚩 Projects</h2>
+<ul>
+  <li>🌟 <b>EduConnect</b> – Digital education platform for seamless learning</li>
+  <li>🤖 <b>Ecommerce Chatbot</b> – Automated 24/7 customer engagement</li>
+  <li>📅 <b>VirtualPlanner</b> – Productivity and planning made easy</li>
+  <li>📚 <b>Book Hub</b> – Social community for book lovers</li>
+  <li>🩺 <b>Healthcare Quiz App</b> – Gamified learning for medical students</li>
+  <li>💬 <b>Community Chat Apps</b> – Scalable real-time chat solutions</li>
+  <li>🗳️ <b>Campus Election System</b> – Modernized digital voting</li>
+  <li>💻 <b>Portfolio Website</b> – The journey so far</li>
+</ul>
 
-<h2 align="left">Projects</h2>
+<!-- Work Experience Section styled as timeline -->
+<h2 align="left">Experience</h2>
+<ul>
+  <li><b>Full Stack Web Dev Intern</b> @ SprintM Technologies <br> <i>Aug 2025 – Oct 2025</i></li>
+  <li><b>Full Stack Web Dev</b> @ Pantech.AI <br> <i>Feb 2025 – May 2025</i></li>
+</ul>
 
-- 🌟 EduConnect – Connects students and teachers digitally  
-- 🤖 Ecommerce Chatbot – Handles user queries instantly  
-- 📅 VirtualPlanner – Plan smart, work smarter  
-- 📚 Book Hub – Where readers unite  
-- 🩺 Healthcare Quiz App – Fun learning in healthcare  
-- 💬 Community Chat Apps – Let’s talk, share, build  
-- 🗳️ Campus Election System – Smart voting made easy  
-- 💻 Portfolio Website – Showcasing my journey
-
-###
-
-<h2 align="left">Connect with Me</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/srinath-potharaju/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:sri.nxth@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.instagram.com/sri.nxthh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.com/users/sriinathh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sriinathh/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
-
+<!-- GitHub Stats with modern theme -->
 <div align="center">
-  <img src="https://camo.githubusercontent.com/a7f489aa581e06fbfa6abd7aced1fe2a19a87d214f8a39bb02866cf5dc62794e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d737269696e6174686826686964655f7469746c653d66616c736526686964655f72616e6b3d66616c73652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652664697361626c655f616e696d6174696f6e733d66616c7365267468656d653d64726163756c61266c6f63616c653d656e26686964655f626f726465723d66616c7365" height="130" />
-  <img src="https://camo.githubusercontent.com/8c25ed656b8e86e08070b1a1c5c83c0f0b67e6413cf5108fc4012b020b71da3b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d737269696e61746868266c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d35267468656d653d64726163756c6126686964655f626f726465723d66616c7365" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sriinathh&show_icons=true&theme=dracula&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriinathh&layout=compact&theme=dracula&hide_border=true" height="155"/>
+</div>
+
+<!-- Snake Animation Footer -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sriinathh/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
