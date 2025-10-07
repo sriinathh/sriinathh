@@ -13,17 +13,31 @@
 </p>
 
 <!-- About Me Section with cool styling -->
-<!-- About Me Section with cool styling -->
+<!-- 🌟 Stylish About Me Section -->
+<h2 align="center">✨ About Me ✨</h2>
+
 <p align="center">
-  <img align="right" height="130" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Dev GIF" />
-  <b>🚀 Full Stack Web Developer crafting seamless, scalable, and user-focused digital experiences.<br>
-  🔥 Skilled in building robust applications with Node.js, React, Express, and MongoDB.<br>
-  💡 Passionate about blending creativity with clean code to solve real-world challenges.<br>
-  🌐 Exploring cloud integration and AI-driven solutions to push the boundaries of web innovation.<br>
-  🏅 Active participant in hackathons, open-source, and developer communities.<br>
-  ☕ Fun fact: My code runs on caffeine and curiosity.
+  <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Dev GIF" />
+  <b>
+  <span style="background: linear-gradient(90deg, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent; font-size: 17px;">
+  🚀 Full Stack Web Developer
+  </span><br><br>
+  💻 Turning ideas into interactive and intelligent digital experiences.<br>
+  ⚡ Passionate about modern web technologies — <b>React, Node.js, Express, MongoDB</b>.<br>
+  🎯 Focused on crafting scalable solutions with elegant UI and powerful backend logic.<br>
+  🌐 Exploring <b>Cloud Computing</b> and <b>AI-powered Web Apps</b> to build next-gen experiences.<br>
+  🏆 Lifelong learner & hackathon enthusiast, always pushing code and creativity forward.<br>
+  ☕ Fueled by coffee, curiosity, and clean code.
   </b>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Quality-Excellent-brightgreen?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Stack-MERN-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Love-Coding%20%26%20Innovation-pink?style=for-the-badge&logo=github" />
+</p>
+
 
 
 <!-- Skills & Tech Stack with modern icons -->
