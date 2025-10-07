@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriinathh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sriinathh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sriinathh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sriinathh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -15,90 +15,57 @@
 
 <h2 align="left">About Me</h2>
 
-- 🚀 Aspiring Full-Stack Developer specializing in scalable and user-friendly web applications
-- 🔥 Hands-on experience with Node.js, React.js, Express.js, and MongoDB
-- 🏆 Built real-world projects: EduConnect, Ecommerce Chatbot, VirtualPlanner, Book Hub, Healthcare Quiz App, Social Community Chat Apps, Portfolio Website, Campus Election System, and more
-- 🎓 B.Tech in Computer Science (MLR Institute of Technology, Hyderabad), CGPA 7.8/10
-- 🛡️ Certified: Java Fullstack (Udemy), CyberSecurity & Full Stack (IBM, Coursera), Cloud & Ethical Hacking (NPTEL)
-- 🎯 Goals: To contribute to impactful projects while enhancing expertise in Full Stack, Cloud, and AI
-- 🧑‍💻 Regular participant in hackathons and coding competitions
+- ✨ Crafting creative bugs since 2022  
+- 🚀 Building innovative web apps and exploring new tech  
+- 🎯 Mastering full-stack and shipping awesome projects  
+- 🎲 Fun fact: I talk to my code like it’s going to reply 😄
 
 ###
 
-<h2 align="left">Tech Stack & Tools</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" alt="Angular" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </div>
-
-###
-
-<h2 align="left">Certifications & Interests</h2>
-
-- 📜 Java Fullstack (Udemy), CyberSecurity & Full Stack (IBM/Coursera), Cloud & Ethical Hacking (NPTEL)
-- 💡 Interests: Problem Solving, AI in Web Apps, Hackathons, Technical Workshops
-
-###
-
-<h2 align="left">Education</h2>
-
-- 🎓 MLR Institute of Technology, Hyderabad (B.Tech CSE), 2023–2027 (CGPA: 7.8/10)
-- 🎓 Bhagyaradhi Junior College, Hyderabad, 2021–2023 (Grade: A)
 
 ###
 
 <h2 align="left">Projects</h2>
 
-- 🌟 EduConnect – Digital education platform 
-- 🤖 Ecommerce Chatbot – Automated customer support 
-- 📅 VirtualPlanner – Productivity and planning tool 
-- 📚 Book Hub – Community book sharing platform 
-- 🩺 Healthcare Quiz App – Medical learning app 
-- 💬 Social Community Chat Apps 
-- 🗳️ Campus Election System 
-- 💻 Portfolio Website
-- And more...
-
-###
-
-<h2 align="left">Professional Experience</h2>
-
-- 💼 Full Stack Web Dev Intern at SprintM Technologies (Aug 2025 – Oct 2025)
-- 💼 Full Stack Web Dev at Pantech.AI (Feb 2025 – May 2025)
+- 🌟 EduConnect – Connects students and teachers digitally  
+- 🤖 Ecommerce Chatbot – Handles user queries instantly  
+- 📅 VirtualPlanner – Plan smart, work smarter  
+- 📚 Book Hub – Where readers unite  
+- 🩺 Healthcare Quiz App – Fun learning in healthcare  
+- 💬 Community Chat Apps – Let’s talk, share, build  
+- 🗳️ Campus Election System – Smart voting made easy  
+- 💻 Portfolio Website – My journey
 
 ###
 
@@ -126,3 +93,8 @@
 <img src="https://raw.githubusercontent.com/sriinathh/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/a7f489aa581e06fbfa6abd7aced1fe2a19a87d214f8a39bb02866cf5dc62794e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d737269696e6174686826686964655f7469746c653d66616c736526686964655f72616e6b3d66616c73652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652664697361626c655f616e696d6174696f6e733d66616c7365267468656d653d64726163756c61266c6f63616c653d656e26686964655f626f726465723d66616c7365" height="130" />
+  <img src="https://camo.githubusercontent.com/8c25ed656b8e86e08070b1a1c5c83c0f0b67e6413cf5108fc4012b020b71da3b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d737269696e61746868266c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d35267468656d653d64726163756c6126686964655f626f726465723d66616c7365" height="130" />
+</div>
