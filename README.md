@@ -71,11 +71,11 @@
 
 <!-- GitHub Stats with modern theme -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinxth-5&show_icons=true&theme=dracula&hide_border=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinxth-5&layout=compact&theme=dracula&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sriinathh&show_icons=true&theme=dracula&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriinathh&layout=compact&theme=dracula&hide_border=true" height="155"/>
 </div>
 
 <!-- Snake Animation Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/srinxth-5/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sriinathh/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
