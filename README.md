@@ -43,8 +43,9 @@
 <!-- Skills & Tech Stack with modern icons -->
 <h2 align="left">Tech Stack & Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,cpp,html,css,mysql,postgres,docker,git,github,vercel,aws,firebase,nginx,postman" height="70" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,graphql,python,django,flask,java,cpp,html,css,sass,tailwind,docker,kubernetes,nginx,apache,linux,ubuntu,kali,metasploit,nmap,wireshark,burpsuite,sqlmap,aircrack,hashcat,john,git,github,vercel,aws,azure,gcp,firebase,postman,figma,notion" height="70" />
 </div>
+
 
 <!-- Project Highlights with creative emojis -->
 <h2 align="left">🚩 Projects</h2>
