@@ -43,7 +43,7 @@
 <!-- Skills & Tech Stack with modern icons -->
 <h2 align="left">Tech Stack & Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular,nodejs,express,graphql,apollo,redux,html,css,sass,tailwind,bootstrap,mongodb,postgres,mysql,sqlite,redis,prisma,sequelize,mongoose,python,django,flask,java,kotlin,swift,go,rust,cpp,docker,kubernetes,terraform,ansible,nginx,apache,linux,ubuntu,centos,kali,metasploit,nmap,wireshark,burpsuite,sqlmap,aircrack,hashcat,john,git,github,gitlab,jenkins,circleci,postman,insomnia,elasticsearch,kibana,logstash,prometheus,grafana,datadog,traefik,vercel,heroku,aws,azure,gcp,firebase,figma,notion,slack,storybook" height="70" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular,nodejs,express,graphql,apollo,redux,html,css,sass,tailwind,bootstrap,mongodb,postgres,mysql,sqlite,redis,prisma,sequelize,mongoose,python,django,flask,java,kotlin,swift,go,rust,cpp,docker,kubernetes,terraform,ansible,nginx,apache,linux,ubuntu,centos,kali,metasploit,nmap,wireshark,burpsuite,sqlmap,aircrack,hashcat,john,git,github,gitlab,jenkins,circleci,postman,insomnia,elasticsearch,kibana,logstash,prometheus,grafana,datadog,traefik,vercel,heroku,aws,azure,gcp,firebase,figma,notion,slack,storybook" height="150" />
 </div>
 
 
