@@ -20,7 +20,7 @@
   <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Dev GIF" />
   <b>
   <span style="background: linear-gradient(90deg, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent; font-size: 17px;">
-  🚀 Full Stack Web Developer
+  
   </span><br><br>
   💻 Turning ideas into interactive and intelligent digital experiences.<br>
   ⚡ Passionate about modern web technologies — <b>React, Node.js, Express, MongoDB</b>.<br>
