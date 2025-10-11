@@ -14,7 +14,7 @@
 
 <!-- About Me Section with cool styling -->
 <!-- 🌟 Stylish About Me Section -->
-<h2 align="center">✨ About Me ✨</h2>
+
 
 <p align="center">
   <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Dev GIF" />
