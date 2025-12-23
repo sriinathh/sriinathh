@@ -1,21 +1,6 @@
 <!-- Dynamic animated header -->
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api
-    ?type=waving
-    &color=0:1e3c72,100:2a5298
-    &height=220
-    &section=header
-    &text=Srinath%20Potharaju
-    &fontSize=60
-    &fontColor=ffffff
-    &fontAlignY=40
-    &desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast
-    &descAlignY=65
-    &descSize=18
-    &animation=fadeIn"
-  />
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Srinath%20Potharaju&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=18&animation=fadeIn" /></div>
+
 
 
 <h2 align="center"> Full Stack Web Developer from Hyderabad</h2>
