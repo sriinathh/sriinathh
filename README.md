@@ -1,7 +1,8 @@
 <!-- Dynamic animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=220&section=header&text=Srinath%20Potharaju&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:8e2de2&height=230&section=header&text=Srinath%20Potharaju&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 </div>
+
 
 
 
