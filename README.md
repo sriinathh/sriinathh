@@ -1,5 +1,5 @@
 <!-- Dynamic animated header -->
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,50:f09819,100:8e2de2&height=240&section=header&text=Srinath%20Potharaju&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=68&descSize=20&animation=twinkling" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=Srinath%20Potharaju&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling" /></div>
 
 
 
