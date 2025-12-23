@@ -1,15 +1,8 @@
 <!-- Dynamic animated header -->
-<h1 align="center">
-  <span style="
-    background: linear-gradient(90deg, #00c6ff, #0072ff, #8e2de2);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: 800;
-    letter-spacing: 1px;
-  ">
-    Srinath Potharaju
-  </span>
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=220&section=header&text=Srinath%20Potharaju&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+</div>
+
 
 
 
