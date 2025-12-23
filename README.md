@@ -1,7 +1,20 @@
 <!-- Dynamic animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Srinath%20Potharaju&fontSize=60&animation=fadeIn" />
+  <img 
+    src="https://capsule-render.vercel.app/api
+    ?type=waving
+    &color=0:0f2027,50:203a43,100:2c5364
+    &height=220
+    &section=header
+    &text=Srinath%20Potharaju
+    &fontSize=58
+    &fontAlignY=40
+    &desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast
+    &descAlignY=65
+    &animation=fadeIn"
+  />
 </div>
+
 
 <h2 align="center"> Full Stack Web Developer from Hyderabad</h2>
 
