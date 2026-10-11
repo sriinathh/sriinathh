@@ -29,15 +29,30 @@
 <br/><br/>
 
 <!-- QUICK LINKS -->
-<a href="https://github.com/sriinathh?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
-<a href="mailto:sri.nxth@yahoo.com">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
-</a>
-<a href="https://srinath.dev">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+
+
+<p align="center">
+  <a href="https://github.com/sriinathh?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projects"/>
+  </a>
+  <a href="mailto:sri.nxth@yahoo.com">
+    <img src="https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact"/>
+  </a>
+  <a href="https://srinathdev.codes">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/srinath-potharaju/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
+    <img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
+  </a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+</p>
+
+
 
 <br/><br/>
 
@@ -921,15 +936,28 @@ I'm interested in software development opportunities, internships, freelance pro
 
 <br/><br/>
 
-<a href="mailto:sri.nxth@yahoo.com">
-<img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/sriinathh">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://srinath.dev">
-<img src="https://img.shields.io/badge/MY_PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+
+<p align="center">
+  <a href="https://github.com/sriinathh?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projects"/>
+  </a>
+  <a href="mailto:sri.nxth@yahoo.com">
+    <img src="https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact"/>
+  </a>
+  <a href="https://srinathdev.codes">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/srinath-potharaju/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
+    <img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
+  </a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+</p>
+
 
 <br/><br/>
 
