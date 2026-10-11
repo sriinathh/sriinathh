@@ -1,89 +1,85 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:132832,45:315563,100:142536&fontColor=EAFBFF&animation=fadeIn&section=header" />
+<!-- ═══════════════ CINEMATIC HEADER ═══════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=8BE5FF&center=true&vCenter=true&width=700&lines=Srinath+Potharaju;Full+Stack+Developer;Building+AI-Powered+Digital+Products;Web+%7C+Mobile+%7C+Cybersecurity" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,20:101C3C,45:312E81,70:075985,100:0891B2&text=SRINATH%20POTHARAJU&fontSize=43&fontColor=FFFFFF&fontAlignY=36&desc=FULL%20STACK%20ENGINEER%20%7C%20AI%20BUILDER%20%7C%20TECH%20EXPLORER&descSize=13&descAlignY=58&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&width=750&lines=Hello+World!+I'm+Srinath+%F0%9F%91%8B;Full+Stack+Web+%26+Mobile+Developer;Building+AI-Powered+Digital+Experiences;Exploring+Cybersecurity+%26+Cloud;Turning+Ideas+Into+Production-Ready+Products" alt="Animated developer introduction" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-052E2B?style=for-the-badge&logo=target&logoColor=5EEAD4" />
+<img src="https://img.shields.io/badge/LOCATION-HYDERABAD,_INDIA-172554?style=for-the-badge&logo=googlemaps&logoColor=93C5FD" />
+<img src="https://komarev.com/ghpvc/?username=sriinathh&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
 <a href="https://github.com/sriinathh">
-<img src="https://img.shields.io/badge/GitHub-sriinathh-203B46?style=for-the-badge&logo=github&logoColor=9CEBFF" />
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW_MY_JOURNEY-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 <a href="mailto:sri.nxth@yahoo.com">
-<img src="https://img.shields.io/badge/Email-Contact-203B46?style=for-the-badge&logo=gmail&logoColor=9CEBFF" />
+<img src="https://img.shields.io/badge/EMAIL-LET'S_CONNECT-7C3AED?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
 <a href="https://srinath.dev">
-<img src="https://img.shields.io/badge/Portfolio-Explore-203B46?style=for-the-badge&logo=vercel&logoColor=9CEBFF" />
+<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE_MY_WORK-0369A1?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </a>
-
-</div>
-
-<table>
-<tr>
-<td width="28%" valign="top">
-
-<div align="center">
-
-<img src="https://github.com/sriinathh.png" width="180" alt="Srinath's GitHub avatar" />
-
-# Srinath
-
-**@sriinathh**
-
-Full Stack Web & Mobile Developer
-
-📍 Hyderabad, India
-
-🎓 Computer Science & Engineering
 
 </div>
 
 ---
 
-### ABOUT ME
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
 
-Building modern web applications, mobile experiences, backend systems, and AI-powered products.
-
-### PROFILE SIGNAL
-
-- ✦ Full Stack Engineering
-- ✦ Android Development
-- ✦ AI & Automation
-- ✦ Cybersecurity
-- ✦ Cloud & DevOps
-
-### QUICK ACCESS
-
-- [Portfolio](https://srinath.dev)
-- [Repositories](https://github.com/sriinathh?tab=repositories)
-- [Contact](mailto:sri.nxth@yahoo.com)
-
-</td>
-<td width="72%" valign="top">
+<table>
+<tr>
+<td width="32%" valign="top">
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:07121F,45:142C40,100:1F4960&text=DEVELOPER%20PERSONA&fontSize=26&fontColor=8BE5FF&fontAlignY=35&desc=BUILDING%20THE%20NEXT%20DIGITAL%20EXPERIENCE&descSize=12&descAlignY=58" />
+<img src="https://github.com/sriinathh.png" width="185" alt="Srinath's GitHub avatar" />
+
+### SRINATH
+
+`@sriinathh`
+
+**Full Stack Developer**
+
+📍 Hyderabad, India
+
+🎓 Computer Science & Engineering
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILD-0F172A?style=flat-square&logo=code&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/CREATE-0F172A?style=flat-square&logo=rocket&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/INNOVATE-0F172A?style=flat-square&logo=lightbulb&logoColor=FDE68A" />
 
 </div>
 
-### `~/profile/overview`
+</td>
+<td width="68%" valign="top">
 
-I'm a Computer Science student passionate about engineering scalable, secure, and user-focused applications. I enjoy connecting beautiful interfaces with reliable APIs, databases, mobile systems, and intelligent automation.
+## `whoami` — Beyond the Code
 
-| PROFILE | DETAILS |
-|---|---|
-| Current role | Full Stack Developer |
-| Frontend | React, Next.js, JavaScript, TypeScript |
-| Backend | Node.js, Express.js, Java, Python |
-| Database | MongoDB, PostgreSQL, MySQL |
-| Interests | AI, Security, Distributed Systems |
-| Availability | Open to Opportunities |
+Hey there! I'm **Srinath Potharaju**, a Computer Science student and developer who enjoys building practical, scalable, and visually polished software.
 
-### CURRENTLY EXPLORING
+My interests span frontend engineering, backend architecture, Android applications, artificial intelligence, and cybersecurity. I like understanding how systems work end-to-end—from the first UI component to the database, APIs, deployment, and monitoring.
 
-`AI Engineering` `Go` `Cybersecurity` `Cloud Infrastructure` `DevOps`
+```text
+┌──────────────────────────────────────────┐
+│  DEVELOPER PROFILE                       │
+├──────────────────────────────────────────┤
+│  Mindset     : Engineer + Problem Solver │
+│  Frontend    : React / Next.js           │
+│  Backend     : Node.js / Express         │
+│  Database    : MongoDB / PostgreSQL      │
+│  Exploring   : AI / Security / Go        │
+│  Philosophy  : Build. Learn. Improve.    │
+└──────────────────────────────────────────┘
+```
+
+**Mission:** Turn interesting ideas into reliable products that solve real problems.
 
 </td>
 </tr>
@@ -91,11 +87,112 @@ I'm a Computer Science student passionate about engineering scalable, secure, an
 
 ---
 
+## `01` — TECH STACK & SUPERPOWERS
+
 <div align="center">
 
-## `01` — REPOSITORY SHOWCASE
+### 🎨 Frontend Engineering
 
-*Selected projects from my development journey.*
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,redux,bootstrap&theme=dark" />
+
+### ⚙️ Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,fastapi,flask&theme=dark" />
+
+### 🗄️ Database & Storage
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis&theme=dark" />
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java&theme=dark" />
+
+### ☁️ Cloud, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,linux,vscode,postman,figma&theme=dark" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Web Development
+
+- Responsive React interfaces
+- Next.js applications
+- Reusable component architecture
+- REST API integration
+- Authentication and authorization
+
+</td>
+<td width="50%" valign="top">
+
+### 🟣 Backend Development
+
+- Node.js and Express services
+- Database schema design
+- API validation and error handling
+- Secure application patterns
+- Deployment and debugging
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 AI & Automation
+
+- AI API integrations
+- Intelligent application workflows
+- Prompt engineering
+- AI-assisted analysis
+- Exploring machine learning
+
+</td>
+<td width="50%" valign="top">
+
+### 🟠 Systems & Security
+
+- Cybersecurity fundamentals
+- Browser security concepts
+- Linux and Git workflows
+- Cloud infrastructure
+- Distributed systems exploration
+
+</td>
+</tr>
+</table>
+
+---
+
+## `02` — LIVE GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sriinathh&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=A78BFA" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriinathh&layout=donut&hide_border=true&langs_count=7&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=sriinathh&theme=transparent&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sriinathh&bg_color=0D1117&color=C9D1D9&line=67E8F9&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+> Analytics are fetched from external services and may occasionally load slowly or be unavailable. Language percentages reflect the repositories those services can analyze, not overall expertise.
+
+---
+
+## `03` — FEATURED PROJECTS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT_LAB-IDEAS_TO_IMPLEMENTATION-172554?style=for-the-badge&logo=github&logoColor=67E8F9" />
 
 </div>
 
@@ -107,11 +204,18 @@ I'm a Computer Science student passionate about engineering scalable, secure, an
 
 **AI Browser Security Guardian**
 
-An AI-assisted browser security project focused on suspicious websites, website risk signals, and understandable security analysis.
+An AI-assisted browser security project focused on website risk signals, suspicious URLs, explainable warnings, and safer browsing experiences.
 
-`React` `JavaScript` `Node.js` `MongoDB`
+**Core areas**
 
-[View repositories ↗](https://github.com/sriinathh?tab=repositories)
+- Website risk assessment
+- Browser extension experience
+- Security analysis and explanations
+- Backend API and monitoring
+
+`React` `JavaScript` `Node.js` `MongoDB` `AI`
+
+[Explore my GitHub →](https://github.com/sriinathh?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -120,11 +224,18 @@ An AI-assisted browser security project focused on suspicious websites, website 
 
 **Streaming Materialized View Engine**
 
-A distributed-systems project exploring event ingestion, stream processing, and continuously updated materialized views.
+A distributed-systems project exploring event ingestion, stream processing, and continuously updated materialized views for real-time analytics.
 
-`Go` `Backend` `Streaming` `Analytics`
+**Core areas**
 
-[View repositories ↗](https://github.com/sriinathh?tab=repositories)
+- Event ingestion
+- Streaming data pipelines
+- Materialized view updates
+- Performance and observability
+
+`Go` `Distributed Systems` `Backend` `Analytics`
+
+[Explore my GitHub →](https://github.com/sriinathh?tab=repositories)
 
 </td>
 </tr>
@@ -133,13 +244,20 @@ A distributed-systems project exploring event ingestion, stream processing, and 
 
 ### 🚀 CareerNexus AI
 
-**AI Career Guidance Platform**
+**Intelligent Career Guidance Platform**
 
-A career guidance application concept for personalized recommendations, skill-gap analysis, interview preparation, and learning roadmaps.
+A career platform concept focused on personalized recommendations, skill-gap analysis, interview preparation, and learning roadmaps.
+
+**Core areas**
+
+- Personalized career guidance
+- Skill analysis
+- Learning roadmaps
+- AI integration
 
 `React` `Node.js` `Python` `AI`
 
-[View repositories ↗](https://github.com/sriinathh?tab=repositories)
+[Explore my GitHub →](https://github.com/sriinathh?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -148,87 +266,69 @@ A career guidance application concept for personalized recommendations, skill-ga
 
 **Smart Recycling & Rewards Platform**
 
-A platform concept connecting recycling pickups, campaigns, rewards, and administrative workflows.
+A platform concept connecting recycling pickups, campaign management, reward tracking, and administrative workflows.
+
+**Core areas**
+
+- Pickup and campaign workflows
+- User rewards
+- Administrative dashboards
+- API-driven application data
 
 `React Native` `Expo` `Express` `MongoDB`
 
-[View repositories ↗](https://github.com/sriinathh?tab=repositories)
+[Explore my GitHub →](https://github.com/sriinathh?tab=repositories)
 
 </td>
 </tr>
 </table>
 
----
-
 <div align="center">
 
-## `02` — GITHUB ANALYTICS
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sriinathh&show_icons=true&hide_border=true&bg_color=172E39&title_color=8BE5FF&text_color=D7E7EC&icon_color=75D8F3&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriinathh&layout=donut&hide_border=true&bg_color=172E39&title_color=8BE5FF&text_color=D7E7EC&langs_count=6" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=sriinathh&theme=transparent&hide_border=true&background=172E39&ring=75D8F3&fire=8BE5FF&currStreakLabel=8BE5FF&sideLabels=D7E7EC&dates=9DB5BF" />
+<a href="https://github.com/sriinathh?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-## `03` — CONTRIBUTION SIGNAL
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sriinathh&bg_color=172E39&color=D7E7EC&line=75D8F3&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" />
-
-</div>
-
----
-
-## `04` — TECH ECOSYSTEM
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,redux&theme=dark" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,mongodb,postgres,mysql,firebase&theme=dark" />
-
-### Mobile, Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,aws,docker,git,github,linux,vscode,postman,figma&theme=dark" />
-
-</div>
-
----
+## `04` — ENGINEERING PLAYBOOK
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## `05` — MILESTONES
+### 🧩 Architecture
 
-- 🏆 First place at an AI/ML hackathon at BITS Pilani Hyderabad Campus
-- 🎯 TCS CodeVita Round 2
-- 💡 EY Techathon Round 2
-- 🚀 Building projects across AI, web, and mobile development
+- Modular code organization
+- Separation of concerns
+- Reusable components
+- Maintainable API layers
+
+### 🔐 Reliability & Security
+
+- Input validation
+- Authentication and authorization
+- Environment-based configuration
+- Error handling and logging
 
 </td>
 <td width="50%" valign="top">
 
-## `06` — ENGINEERING MINDSET
+### ⚡ Performance
 
-```text
-DESIGN     -> Understand the problem
-ARCHITECT  -> Plan the system
-BUILD      -> Write maintainable code
-TEST       -> Validate the behavior
-SHIP       -> Deploy and improve
-```
+- Efficient API requests
+- Database query optimization
+- Responsive user interfaces
+- Scalable system design
+
+### 🚢 Delivery
+
+- Git version control
+- Testing and debugging
+- Cloud deployment
+- Continuous improvement
 
 </td>
 </tr>
@@ -236,26 +336,96 @@ SHIP       -> Deploy and improve
 
 ---
 
+## `05` — ACHIEVEMENTS & MILESTONES
+
 <div align="center">
 
-## `07` — LET'S CONNECT
+<img src="https://img.shields.io/badge/TCS-CODEVITA_ROUND_2-111827?style=for-the-badge&logoColor=67E8F9" />
 
-**Have an idea worth building? Let's make it happen.**
+<img src="https://img.shields.io/badge/EY-TECHATHON_ROUND_2-111827?style=for-the-badge&logoColor=C4B5FD" />
+
+<img src="https://img.shields.io/badge/BITS_PILANI-AI%2FML_HACKATHON_WINNER-111827?style=for-the-badge&logoColor=FDE68A" />
+
+</div>
+
+- 🏆 First place at an AI/ML hackathon at BITS Pilani Hyderabad Campus.
+- 🎯 Qualified for TCS CodeVita Round 2.
+- 💡 Reached Round 2 of EY Techathon.
+- 🚀 Developing projects across web, mobile, AI, and backend engineering.
+- 📚 Continuously improving software engineering and problem-solving skills.
+
+---
+
+## `06` — CURRENTLY EXPLORING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_ENGINEERING-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-0891B2?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-334155?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/CLOUD_&_DEVOPS-1D4ED8?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+</div>
+
+```python
+from pathlib import Path
+
+developer = {
+    "name": "Srinath Potharaju",
+    "mindset": "Keep learning",
+    "approach": [
+        "Understand the problem",
+        "Design the solution",
+        "Build and test",
+        "Deploy and improve",
+    ],
+}
+
+while True:
+    learn_something_new()
+    build_something_useful()
+    improve_existing_work()
+```
+
+---
+
+## `07` — CONTRIBUTION SNAKE
+
+<div align="center">
+
+<!-- Enable the GitHub Actions workflow described below to generate this image. -->
+
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sriinathh/sriinathh/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## `08` — LET'S BUILD SOMETHING
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Open+to+Opportunities;Open+to+Collaborations;Ready+to+Build+Something+Meaningful" />
+
+I'm interested in software development opportunities, collaborative projects, internships, and freelance work.
 
 <a href="mailto:sri.nxth@yahoo.com">
-<img src="https://img.shields.io/badge/EMAIL-Connect-203B46?style=for-the-badge&logo=gmail&logoColor=8BE5FF" />
+<img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/sriinathh">
-<img src="https://img.shields.io/badge/GITHUB-Follow-203B46?style=for-the-badge&logo=github&logoColor=8BE5FF" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://srinath.dev">
-<img src="https://img.shields.io/badge/PORTFOLIO-Explore-203B46?style=for-the-badge&logo=vercel&logoColor=8BE5FF" />
+<img src="https://img.shields.io/badge/MY_PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
 
-*Building with curiosity. Engineering with purpose.*
+**📍 Hyderabad, India · Open to Remote & On-site Opportunities**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:142536,50:315563,100:132832&section=footer" />
+*Crafted with curiosity. Powered by code. Driven by continuous learning.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0891B2,35:312E81,70:101C3C,100:050816" />
 
 </div>
