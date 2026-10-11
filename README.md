@@ -392,13 +392,61 @@ while True:
 
 ## `07` — CONTRIBUTION SNAKE
 
+
+<!-- ═════════════ NEON CONTRIBUTION MATRIX ═════════════ -->
+
 <div align="center">
 
-<!-- Enable the GitHub Actions workflow described below to generate this image. -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:09090B,30:312E81,65:6D28D9,100:0891B2&text=THE%20CONTRIBUTION%20MATRIX&fontSize=25&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn" />
 
-<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sriinathh/sriinathh/output/github-contribution-grid-snake-dark.svg" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=700&lines=Every+commit+creates+momentum.;Every+day+is+a+chance+to+build.;Consistency+is+the+real+superpower." alt="Contribution animation headline" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/01-CODE-312E81?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/02-CREATE-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/03-REPEAT-0891B2?style=for-the-badge&logo=rocket&logoColor=FFFFFF" />
+
+<br/><br/>
+
+<img width="100%" alt="Colorful animated GitHub contribution snake" src="https://raw.githubusercontent.com/sriinathh/sriinathh/output/github-contribution-grid-snake-dark.svg" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+
+**🟣 KEEP LEARNING**
+
+</td>
+<td align="center">
+
+**🔵 KEEP BUILDING**
+
+</td>
+<td align="center">
+
+**🩷 KEEP SHIPPING**
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/sriinathh">
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=67E8F9" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0891B2,45:6D28D9,75:312E81,100:09090B" />
 
 </div>
+
+<!-- ═════════════ END CONTRIBUTION MATRIX ═════════════ -->
+
 
 ---
 
